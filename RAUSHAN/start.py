@@ -32,7 +32,7 @@ async def start(bot: Client, msg: Message):
                 ],
                 [
                     InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="https://github.com/Legendbap/SHIBU-SESSION-BOT"),
-                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/NIKKU_MUSIC_ROBOT")
+                    InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/NIKKI_MUSIC_ROBOT")
                 ]                
             ]
         )
